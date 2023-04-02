@@ -10,7 +10,6 @@ public class AngkaSial {
             throw new AngkaSialException();
         }
         System.out.println(angka + " bukan angka sial");
-        System.out.println("tesssssssssssssssssssssss");
     }
 
     public static void main(String[] args) {
